@@ -50,7 +50,7 @@
     {
       "name": "ib-deck-creation",
       "displayName": "Deck Creation",
-      "source": "./skills/investment-banking/deck-creation",
+      "source": "./skills/investment-banking/ib-deck-creation",
       "description": "Draft and format banker pitch decks"
     },
     {
